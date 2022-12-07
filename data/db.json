@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "play gloomhaven",
-      "isFav": true
-    },
-    {
-      "title": "become an eldern lord",
-      "isFav": false,
-      "id": 3
-    },
-    {
       "title": "eat some pinapples",
       "isFav": true,
       "id": 4
@@ -18,7 +8,12 @@
     {
       "id": 9072,
       "title": "make cake",
-      "isFav": false
+      "isFav": true
+    },
+    {
+      "id": 1390,
+      "title": "eat pizza",
+      "isFav": true
     }
   ]
 }
